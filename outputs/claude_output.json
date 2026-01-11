@@ -1,0 +1,18 @@
+[
+    {
+      "field": "Model",
+      "keyword": "model",
+      "summary": "The user requires a machine learning model for their project."
+    },
+    {
+      "field": "MATH-500 (Quantitative Reasoning)",
+      "keyword": "noisy numeric text data",
+      "summary": "The model needs quantitative reasoning for noisy numeric text data."
+    },
+    {
+      "field": "Median (Tokens/s)",
+      "keyword": "low latency",
+      "summary": "The model should have low latency for real-time predictions."
+    }
+  ]
+  
