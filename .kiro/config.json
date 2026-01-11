@@ -1,0 +1,8 @@
+{
+    "project": "LLM Referee Tool",
+    "challenge_week": 6,
+    "description": "Compares LLM models based on user requirements, explains trade-offs, and stores results in Neo4j.",
+    "author": "Your Name",
+    "version": "1.0.0"
+  }
+  
