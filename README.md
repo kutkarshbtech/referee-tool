@@ -95,19 +95,18 @@ We need a low-latency, cost-efficient LLM for real-time chatbot deployment.
 
 ## Screenshots
 
-## Screenshots
-
 ### Streamlit UI
-![ui-screen](streamlit_ui.png)
-![input](input.png)
+![Streamlit UI](images/streamlit_ui.png)
+![Input Screen](images/input.png)
 
 ### Recommendation Output
-![output](output.png)
+![Recommendation Output](images/output.png)
 
 ### Neo4j Graph
-![cypher-output](cpher_output.png)
-![neo4j-model-nodes](neo4j_output.png)
-![added-node](newly_added_node.png)
+![Cypher Output](images/cypher_output.png)
+![Neo4j Model Nodes](images/neo4j_output.png)
+![Newly Added Node](images/newly_added_node.png)
+
 
 ---
 
